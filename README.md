@@ -1,0 +1,1 @@
+# sum-ofal-n-natural-numbers
